@@ -1,8 +1,6 @@
-
-
 https://user-images.githubusercontent.com/73254785/124225236-e7db0f00-db28-11eb-98cd-f12e32846883.mp4
 
-
+<img src="https://user-images.githubusercontent.com/73254785/190666770-5aa2d830-5513-4915-a037-0f23516d54ab.jpg" width="850" height="600">
 # fooood_ordering_app
 
 A new Flutter application.
